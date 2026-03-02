@@ -1,0 +1,201 @@
+[section label="Küche sanieren Kosten in Wien: Preisfaktoren &amp; Beispiele" class="lp-kueche lp-infohub" bg_color="rgb(255,255,255)" padding="0px"]
+[ux_html]
+<script type="application/json" id="ih-data-kueche-sanieren-kosten">
+{
+  "meta": {
+    "h1": "Küche sanieren Kosten in Wien: Preisfaktoren & Beispiele",
+    "lead": "Praktische Orientierung für Wien: küche sanieren kosten in wien: preisfaktoren & beispiele – mit Faktoren, Checklisten und typischen Stolpersteinen.",
+    "reading_time": "6–8 min",
+    "last_updated": "01.03.2026"
+  },
+  "hero": {
+    "badge": "Wien-Ratgeber",
+    "benefits": [
+      "Klare Entscheidungshilfe",
+      "Checklisten für Planung & Ablauf",
+      "Typische Wiener Wohnsituationen (Altbau etc.)"
+    ],
+    "cta": {
+      "primary": {
+        "href": "https://www.tischlerei.wien/kueche-sanieren/#angebot",
+        "label": "Unverbindliches Angebot"
+      },
+      "secondary": {
+        "href": "https://wa.me/4369910000141",
+        "label": "WhatsApp"
+      }
+    }
+  },
+  "toc": {
+    "title": "Inhalt",
+    "items": [
+      {
+        "label": "Überblick & wichtige Faktoren",
+        "anchor": "ueberblick"
+      },
+      {
+        "label": "Checkliste für die Umsetzung",
+        "anchor": "checkliste"
+      },
+      {
+        "label": "Praxis-Tipps aus Wien",
+        "anchor": "praxis"
+      },
+      {
+        "label": "Häufige Fehler vermeiden",
+        "anchor": "haeufige-fehler"
+      }
+    ]
+  },
+  "quick_fazit": {
+    "title": "Kurz-Fazit",
+    "cards": [
+      {
+        "title": "Für wen sinnvoll?",
+        "text": "Wenn Korpus/Layout okay sind, bringt Sanieren schnell ein großes Upgrade."
+      },
+      {
+        "title": "Worauf achten?",
+        "text": "Anschlüsse, Maße, Materialwahl und ein sauberer Zeitplan."
+      }
+    ]
+  },
+  "content": [
+    {
+      "anchor": "ueberblick",
+      "title": "Überblick & wichtige Faktoren",
+      "intro_html": "<p>Überblick & wichtige Faktoren rund um <strong>Küche sanieren Kosten in Wien: Preisfaktoren & Beispiele</strong>.</p>",
+      "items": [
+        {
+          "heading": "Worauf es ankommt",
+          "text": "Maße, Anschlüsse, Materialwahl und ein sauberer Ablauf sind die Hebel für ein gutes Ergebnis."
+        },
+        {
+          "heading": "Wie wir vorgehen",
+          "text": "Erst klären wir Ziele & Budget, dann planen wir Details – erst danach wird bestellt/produziert."
+        }
+      ],
+      "checklist": [
+        "Fotos + grobe Maße vorbereiten",
+        "Anschlüsse/Probleme notieren (Wasser, Strom, Abzug)",
+        "Wünsche priorisieren: Stauraum, Optik, Geräte",
+        "Terminfenster für Montage einplanen"
+      ],
+      "note_html": "<p><em>Tipp:</em> Je klarer die Prioritäten, desto schneller ist die Planung – und desto weniger Nacharbeiten gibt es.</p>",
+      "geo_html": "<p><strong>Wien:</strong> In Altbauwohnungen rechnen wir mit Toleranzen bei Wänden/Böden und planen saubere Abschlussleisten bzw. Blenden.</p>"
+    },
+    {
+      "anchor": "checkliste",
+      "title": "Checkliste für die Umsetzung",
+      "intro_html": "<p>Checkliste für die Umsetzung rund um <strong>Küche sanieren Kosten in Wien: Preisfaktoren & Beispiele</strong>.</p>",
+      "items": [
+        {
+          "heading": "Worauf es ankommt",
+          "text": "Maße, Anschlüsse, Materialwahl und ein sauberer Ablauf sind die Hebel für ein gutes Ergebnis."
+        },
+        {
+          "heading": "Wie wir vorgehen",
+          "text": "Erst klären wir Ziele & Budget, dann planen wir Details – erst danach wird bestellt/produziert."
+        }
+      ],
+      "checklist": [
+        "Fotos + grobe Maße vorbereiten",
+        "Anschlüsse/Probleme notieren (Wasser, Strom, Abzug)",
+        "Wünsche priorisieren: Stauraum, Optik, Geräte",
+        "Terminfenster für Montage einplanen"
+      ],
+      "note_html": "<p><em>Tipp:</em> Je klarer die Prioritäten, desto schneller ist die Planung – und desto weniger Nacharbeiten gibt es.</p>",
+      "geo_html": "<p><strong>Wien:</strong> In Altbauwohnungen rechnen wir mit Toleranzen bei Wänden/Böden und planen saubere Abschlussleisten bzw. Blenden.</p>"
+    },
+    {
+      "anchor": "praxis",
+      "title": "Praxis-Tipps aus Wien",
+      "intro_html": "<p>Praxis-Tipps aus Wien rund um <strong>Küche sanieren Kosten in Wien: Preisfaktoren & Beispiele</strong>.</p>",
+      "items": [
+        {
+          "heading": "Worauf es ankommt",
+          "text": "Maße, Anschlüsse, Materialwahl und ein sauberer Ablauf sind die Hebel für ein gutes Ergebnis."
+        },
+        {
+          "heading": "Wie wir vorgehen",
+          "text": "Erst klären wir Ziele & Budget, dann planen wir Details – erst danach wird bestellt/produziert."
+        }
+      ],
+      "checklist": [
+        "Fotos + grobe Maße vorbereiten",
+        "Anschlüsse/Probleme notieren (Wasser, Strom, Abzug)",
+        "Wünsche priorisieren: Stauraum, Optik, Geräte",
+        "Terminfenster für Montage einplanen"
+      ],
+      "note_html": "<p><em>Tipp:</em> Je klarer die Prioritäten, desto schneller ist die Planung – und desto weniger Nacharbeiten gibt es.</p>",
+      "geo_html": "<p><strong>Wien:</strong> In Altbauwohnungen rechnen wir mit Toleranzen bei Wänden/Böden und planen saubere Abschlussleisten bzw. Blenden.</p>"
+    },
+    {
+      "anchor": "haeufige-fehler",
+      "title": "Häufige Fehler vermeiden",
+      "intro_html": "<p>Häufige Fehler vermeiden rund um <strong>Küche sanieren Kosten in Wien: Preisfaktoren & Beispiele</strong>.</p>",
+      "items": [
+        {
+          "heading": "Worauf es ankommt",
+          "text": "Maße, Anschlüsse, Materialwahl und ein sauberer Ablauf sind die Hebel für ein gutes Ergebnis."
+        },
+        {
+          "heading": "Wie wir vorgehen",
+          "text": "Erst klären wir Ziele & Budget, dann planen wir Details – erst danach wird bestellt/produziert."
+        }
+      ],
+      "checklist": [
+        "Fotos + grobe Maße vorbereiten",
+        "Anschlüsse/Probleme notieren (Wasser, Strom, Abzug)",
+        "Wünsche priorisieren: Stauraum, Optik, Geräte",
+        "Terminfenster für Montage einplanen"
+      ],
+      "note_html": "<p><em>Tipp:</em> Je klarer die Prioritäten, desto schneller ist die Planung – und desto weniger Nacharbeiten gibt es.</p>",
+      "geo_html": "<p><strong>Wien:</strong> In Altbauwohnungen rechnen wir mit Toleranzen bei Wänden/Böden und planen saubere Abschlussleisten bzw. Blenden.</p>"
+    }
+  ],
+  "related": {
+    "title": "Passende Inhalte",
+    "items": [
+      {
+        "title": "Küche sanieren: Ablauf von Planung bis Montage",
+        "href": "https://www.tischlerei.wien/kueche-sanieren-ablauf/"
+      },
+      {
+        "title": "Küche sanieren: Dauer, Zeitplan & typische Wartezeiten",
+        "href": "https://www.tischlerei.wien/kueche-sanieren-dauer/"
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "question": "Brauche ich ein Vor-Ort-Aufmaß?",
+        "answer_html": "<p>Für eine saubere Planung ja – besonders bei Altbau-Toleranzen und unklaren Anschlusspositionen.</p>"
+      },
+      {
+        "question": "Kann ich das Layout beibehalten?",
+        "answer_html": "<p>Oft ja. Das spart Kosten, weil Anschlüsse nicht verlegt werden müssen.</p>"
+      },
+      {
+        "question": "Wie schnell bekomme ich ein Angebot?",
+        "answer_html": "<p>Mit Fotos + groben Maßen oft sehr schnell. Für final: Aufmaß und Materialauswahl.</p>"
+      }
+    ]
+  },
+  "schema": {
+    "headline": "Küche sanieren Kosten in Wien: Preisfaktoren & Beispiele",
+    "about": "Ratgeber: Küche sanieren Kosten in Wien: Preisfaktoren & Beispiele in Wien – Kosten, Ablauf, Checklisten.",
+    "page_url": "https://www.tischlerei.wien/kueche-sanieren-kosten/",
+    "business": {
+      "name": "Tischlerei Wien",
+      "url": "https://www.tischlerei.wien/"
+    }
+  }
+}
+</script>
+[/ux_html]
+[lp_infohub_page id="kueche-sanieren-kosten"]
+[lp_infohub_schema id="kueche-sanieren-kosten"]
+[/section]

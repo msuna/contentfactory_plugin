@@ -1,0 +1,165 @@
+[section label="Money" bg_color="rgb(247, 246, 242)" padding="0px" class="lp-kueche lp-money"]
+
+[ux_html]
+<script type="application/json" id="lp-data-kueche-sanieren">
+{
+  "id": "kueche-sanieren",
+  "hero": {
+    "h1": "Küche sanieren in Wien",
+    "lead_html": "Praxisnah geplant, sauber umgesetzt: von der Teilrenovierung bis zur kompletten Küchensanierung im Altbau und Neubau.",
+    "cta": {
+      "link": "/kueche-sanieren/#angebot",
+      "btn": "JETZT BERATEN LASSEN",
+      "rating": "4.9",
+      "count": "120+",
+      "intent": "consultation"
+    },
+    "badges": [
+      "Planung & Aufmaß in Wien",
+      "Koordination von Elektrik und Wasser",
+      "Teil- oder Komplettsanierung möglich"
+    ]
+  },
+  "material": {
+    "title": "Was bei einer Küchensanierung wirklich zählt",
+    "items": [
+      "Bestand prüfen statt blind ersetzen",
+      "Ablauf zwischen Gewerken klar planen",
+      "Budget mit Reserve aufstellen",
+      "Altbau-Risiken früh erkennen"
+    ]
+  },
+  "steps": {
+    "title": "Unser Ablauf in 6 Schritten",
+    "intro": "So läuft eine Sanierung ohne unnötige Reibung.",
+    "items": [
+      "Erstgespräch und Vor-Ort-Termin",
+      "Aufmaß, Bestandscheck, technische Prüfung",
+      "Planung mit Varianten und Budget",
+      "Demontage und vorbereitende Arbeiten",
+      "Montage und Geräteeinbau",
+      "Abnahme mit Funktionskontrolle"
+    ]
+  },
+  "trust": {
+    "title": "Warum die Vorbereitung über das Ergebnis entscheidet",
+    "items": [
+      {
+        "title": "Transparente Positionen",
+        "text": "Material, Gewerke und Montage werden sauber getrennt kalkuliert."
+      },
+      {
+        "title": "Praxis für Wiener Wohnungen",
+        "text": "Erfahrung mit Altbau, kleinen Grundrissen und engen Zugängen."
+      },
+      {
+        "title": "Koordinierte Ausführung",
+        "text": "Elektrik, Wasser und Montage greifen geordnet ineinander."
+      },
+      {
+        "title": "Klare Abnahme",
+        "text": "Funktionen, Fugen und Restpunkte werden systematisch geprüft."
+      }
+    ]
+  },
+  "info_boxes": [
+    {
+      "placement": "money.after_trust",
+      "variant": "info",
+      "tone": "tip",
+      "title": "Ratgeber / Praxiswissen",
+      "headline": "Vertiefende Leitfäden zur Küchensanierung",
+      "text_html": "<p>Diese Themen vertiefen einzelne Fragen aus der Sanierungspraxis:</p><ul><li><a href=\"/infohub/kueche-sanieren-kosten-wien/\">Kosten in Wien realistisch einschätzen</a></li><li><a href=\"/infohub/kueche-sanieren-ablauf/\">Ablauf Schritt für Schritt</a></li><li><a href=\"/infohub/kueche-sanieren-dauer/\">Dauer und Zeitplanung</a></li><li><a href=\"/infohub/kueche-sanieren-teil-oder-komplett/\">Teilrenovierung vs Komplettsanierung</a></li><li><a href=\"/infohub/kueche-sanieren-elektrik-wasser/\">Elektrik und Wasseranschlüsse</a></li><li><a href=\"/infohub/kueche-sanieren-foerderung-oesterreich/\">Förderungen in Österreich</a></li><li><a href=\"/infohub/kueche-sanieren-altbau-planung/\">Planung im Wiener Altbau</a></li><li><a href=\"/infohub/kueche-sanieren-was-bleibt/\">Was bleibt, was wird ersetzt?</a></li></ul>"
+    }
+  ],
+  "inquiry": {
+    "title": "Küche sanieren: unverbindlich anfragen",
+    "text": "Schicken Sie 2–3 Fotos und grobe Maße. Wir melden uns mit einer realistischen Ersteinschätzung für Wien.",
+    "form_wpcode_id": 0,
+    "cta_buttons": {
+      "call": {
+        "label": "JETZT ANRUFEN",
+        "phone": "+43 699 1000 0141"
+      },
+      "whatsapp": {
+        "label": "WHATSAPP",
+        "url": "https://wa.me/4369910000141"
+      }
+    }
+  },
+  "faq": {
+    "title": "Häufige Fragen zur Küchensanierung",
+    "subtitle": "Kompakt beantwortet aus der Praxis in Wien.",
+    "items": [
+      {
+        "question": "Was kostet es, eine Küche in Wien zu sanieren?",
+        "answer_html": "\n<p>Die Kosten hängen weniger von der Quadratmeterzahl ab als vom Eingriff. In einer typischen Wiener Wohnung sehen wir oft drei Szenarien: reine Fronten-Erneuerung, Geräte-Tausch mit kleinen Anpassungen oder komplette Neuplanung inklusive Leitungen. Bei einer Teilrenovierung bleiben Korpusse und Grundriss meist gleich. Dann fließt das Budget vor allem in Fronten, Arbeitsplatte, Spüle und Montage. Bei einer Komplettsanierung kommen Abbruch, Entsorgung, Elektrik, Installateur und oft Trockenbau dazu.</p>\n<p>Als praxisnahe Orientierung für Wien:</p>\n<ul>\n<li><strong>Teilrenovierung:</strong> meist im unteren bis mittleren vierstelligen Bereich.</li>\n<li><strong>Umfangreiche Sanierung:</strong> häufig im mittleren vierstelligen bis unteren fünfstelligen Bereich.</li>\n<li><strong>Komplettsanierung mit Leitungsarbeiten:</strong> je nach Ausstattung deutlich darüber.</li>\n</ul>\n<p>Im Altbau können schiefe Wände, alte Untergründe und enge Stiegenhäuser den Aufwand erhöhen. Deshalb kalkulieren wir immer mit Aufmaß vor Ort und klaren Positionen: Material, Gewerke, Montage, eventuelle Reserve. So vermeiden Sie Nachträge, die erst auf der Baustelle sichtbar werden.</p>\n"
+      },
+      {
+        "question": "Wie läuft eine Küchensanierung Schritt für Schritt ab?",
+        "answer_html": "\n<p>Ein sauberer Ablauf spart in Wien vor allem Zeit in der Abstimmung zwischen Tischlerei, Elektriker und Installateur. Wir starten mit einem Termin vor Ort: Maße, Anschlusspunkte, Zustand der Wände und gewünschte Nutzung werden dokumentiert. Danach folgt die Planung mit Material- und Geräteauswahl. Erst wenn diese Punkte fix sind, gehen wir in die Terminierung der Gewerke.</p>\n<p>Typischer Ablauf in der Praxis:</p>\n<ul>\n<li><strong>1. Bestandsaufnahme:</strong> Fotos, Maße, Leitungen, Lüftung, Zugänge.</li>\n<li><strong>2. Planung:</strong> Layout, Geräte, Arbeitsbereiche, Stauraum.</li>\n<li><strong>3. Demontage:</strong> alte Küche, sortierte Entsorgung.</li>\n<li><strong>4. Vorarbeiten:</strong> Elektro- und Sanitäranpassungen, Untergrund.</li>\n<li><strong>5. Montage:</strong> Korpusse, Platte, Geräte, Feineinstellung.</li>\n<li><strong>6. Abnahme:</strong> Funktionscheck, Silikonfugen, Restpunkte.</li>\n</ul>\n<p>Wichtig ist die Reihenfolge: Wenn Elektro- und Wasserpunkte zu spät entschieden werden, verzögert sich alles. Gerade in Gründerzeitwohnungen mit Altinstallationen lohnt sich eine kurze technische Vorprüfung, bevor Materialien bestellt werden.</p>\n"
+      },
+      {
+        "question": "Wie lange dauert eine Küchensanierung realistisch?",
+        "answer_html": "\n<p>Die reine Montage ist nur ein Teil der Gesamtzeit. In Wien sehen Kundinnen und Kunden oft zwei Phasen: Planungs- und Lieferzeit einerseits, Baustellenzeit andererseits. Für eine kleinere Teilrenovierung reicht auf der Baustelle häufig ein kurzer Zeitraum. Bei Komplettsanierungen mit neuen Leitungen und Putzarbeiten müssen mehrere Gewerke nacheinander arbeiten.</p>\n<p>Realistische Zeitfenster:</p>\n<ul>\n<li><strong>Teilrenovierung ohne Leitungsänderung:</strong> oft wenige Arbeitstage vor Ort.</li>\n<li><strong>Sanierung mit Elektro/Sanitär-Anpassung:</strong> meist etwa ein bis zwei Wochen Baustelle.</li>\n<li><strong>Komplexe Altbau-Situation:</strong> zusätzliche Zeit für Trocknung, Koordination und Nacharbeiten einplanen.</li>\n</ul>\n<p>Der größte Zeitverlust entsteht selten bei der Montage, sondern bei fehlenden Entscheidungen oder unerwarteten Befunden hinter der alten Küche. Beispiel aus dem Alltag: Eine marode Nische wird erst nach Demontage sichtbar, dann braucht es kurzfristig Trockenbau. Wer ein kleines Zeitpolster einplant, bleibt handlungsfähig und vermeidet Stress kurz vor dem Einzug.</p>\n"
+      },
+      {
+        "question": "Teilrenovierung oder Komplettsanierung – was ist sinnvoll?",
+        "answer_html": "\n<p>Ob Teil- oder Komplettsanierung sinnvoll ist, entscheidet der Zustand der Basis. Wenn Korpusse stabil sind, der Grundriss passt und die Anschlüsse bleiben können, ist eine Teilrenovierung wirtschaftlich. Typisch sind neue Fronten, neue Arbeitsplatte, moderne Spüle und einzelne Geräte. Optisch wirkt die Küche danach deutlich frischer, bei überschaubarem Eingriff.</p>\n<p>Für eine Komplettsanierung sprechen meist diese Punkte:</p>\n<ul>\n<li>ungenutzter Stauraum und unpraktische Laufwege</li>\n<li>alte, unsichere Elektrik oder undichte Installationen</li>\n<li>deutlich veränderte Anforderungen im Haushalt</li>\n<li>massive Schäden an Korpussen, Beschlägen oder Untergründen</li>\n</ul>\n<p>In vielen Wiener Wohnungen kombinieren wir beides: Grundriss bleibt, problematische Bereiche werden gezielt erneuert. So entsteht ein vernünftiger Mittelweg zwischen Budget und Ergebnis. Entscheidend ist ein ehrlicher Vorab-Check: Was kann bleiben, was kostet später doppelt, wenn man es jetzt auslässt? Diese Entscheidung spart langfristig Geld und Nerven.</p>\n"
+      },
+      {
+        "question": "Was ist bei Elektrik und Wasseranschlüssen zu beachten?",
+        "answer_html": "\n<p>Bei Küchensanierungen sind Elektrik und Wasser die häufigsten Stolperstellen. Besonders im Altbau treffen wir auf Mischzustände: alte Leitungen, nachgerüstete Steckdosen, unklare Absicherungen. Deshalb klären wir vor der Ausführung die tatsächliche Last der Geräte, die Positionen von Steckdosen und die Erreichbarkeit von Absperrungen.</p>\n<p>Worauf es praktisch ankommt:</p>\n<ul>\n<li><strong>Elektro:</strong> getrennte Kreise für starke Verbraucher, ausreichende Anzahl an Arbeitssteckdosen, saubere Absicherung.</li>\n<li><strong>Wasser:</strong> Lage von Zu- und Ablauf, Gefälle, Dichtheit, Platz für Siphon und eventuelle Filter.</li>\n<li><strong>Geräte:</strong> Einbaumaße, Lüftung, Servicezugänge, Wartbarkeit.</li>\n</ul>\n<p>In engen Wiener Küchen müssen Installationen oft millimetergenau geplant werden, damit Auszüge vollständig öffnen. Ein klassischer Fehler ist, Steckdosen hinter fixen Geräten zu setzen, die später kaum erreichbar sind. Mit einem abgestimmten Installationsplan vor Demontage vermeiden Sie teure Umwege während der Montage.</p>\n"
+      },
+      {
+        "question": "Gibt es Förderungen für die Küchensanierung in Österreich?",
+        "answer_html": "\n<p>Für klassische Küchenerneuerung ohne energetischen Bezug gibt es nicht immer direkte Förderprogramme. Relevant werden Förderungen meist dann, wenn Maßnahmen in größere Sanierungspakete fallen, etwa im Zusammenhang mit Energieeffizienz, barrierearmen Umbauten oder Wohnhaussanierung. In Wien ändern sich Programme und Fristen regelmäßig, deshalb prüfen wir immer den aktuellen Stand vor Projektstart.</p>\n<p>So gehen Sie sinnvoll vor:</p>\n<ul>\n<li>Frühzeitig klären, welche Maßnahme förderfähig ist – nicht erst nach Rechnungslegung.</li>\n<li>Angebote und Leistungsbeschreibungen sauber strukturieren.</li>\n<li>Technische Nachweise und Rechnungen vollständig sammeln.</li>\n<li>Bei Unsicherheit direkt bei der zuständigen Stelle rückfragen.</li>\n</ul>\n<p>Wichtig: Förderfähigkeit ersetzt keine solide Kalkulation. Wir planen zuerst eine technisch sinnvolle Lösung, danach prüfen wir, wo Zuschüsse realistisch sind. Damit vermeiden Sie den häufigen Fehler, das Projekt auf eine unsichere Förderung aufzubauen und am Ende Zeitdruck zu bekommen.</p>\n"
+      },
+      {
+        "question": "Wie plant man eine Küchensanierung im Wiener Altbau?",
+        "answer_html": "\n<p>Altbauküchen haben Charme, aber auch Tücken. Häufig sind Wände nicht rechtwinklig, Leitungen historisch gewachsen und Böden uneben. Bei der Planung reicht ein grober Grundriss daher nicht aus. Wir messen kritische Punkte doppelt, prüfen Wandaufbau und definieren vorab, welche Toleranzen bei Möbeln und Arbeitsplatte nötig sind.</p>\n<p>Besonders wichtig im Altbau:</p>\n<ul>\n<li><strong>Aufmaß mit Bezugspunkten:</strong> nicht nur Wandlängen, sondern auch Lot und Winkel.</li>\n<li><strong>Zugänglichkeit:</strong> Stiegenhaus, Liftgröße, Tragewege für Platten und Geräte.</li>\n<li><strong>Bestandsleitungen:</strong> Zustand prüfen, nicht blind überbauen.</li>\n<li><strong>Untergrund:</strong> Putz, Fliesen, Estrich vor Montage bewerten.</li>\n</ul>\n<p>In Gründerzeitwohnungen planen wir oft mit maßgefertigten Blenden, damit Fronten ruhig und präzise wirken. Das ist kein Luxus, sondern saubere Ausführung. Wer diese Details früh berücksichtigt, vermeidet Spalten, Kollisionen mit Fenstern und improvisierte Lösungen am letzten Tag.</p>\n"
+      },
+      {
+        "question": "Was bleibt bei der Sanierung, was wird ersetzt?",
+        "answer_html": "\n<p>Die beste Sanierung ist selten „alles neu“, sondern „gezielt neu“. Wir prüfen zuerst, welche Teile technisch noch sinnvoll sind: Korpusse, Beschläge, Geräte, Fliesen, Anschlüsse. Wenn ein Bauteil zuverlässig funktioniert und gut integrierbar ist, kann es oft bleiben. Das reduziert Kosten und Baustellenzeit.</p>\n<p>Typische Entscheidungen aus der Praxis:</p>\n<ul>\n<li><strong>Kann oft bleiben:</strong> stabile Korpusse, gut erhaltene Wandfliesen in Nebenbereichen, funktionierende Geräte mittleren Alters.</li>\n<li><strong>Wird häufig ersetzt:</strong> Arbeitsplatte, Fronten, Scharniere, Spüle, Armatur, Beleuchtung.</li>\n<li><strong>Sollte geprüft werden:</strong> Steckdosenlage, Absperrventile, Dichtungen, Silikonfugen.</li>\n</ul>\n<p>Gerade in kleinen Wiener Wohnungen lohnt diese Abwägung. Wenn z. B. der Geschirrspüler noch zuverlässig läuft, investieren viele lieber in bessere Auszüge und eine robuste Platte. Das bringt im Alltag oft mehr Nutzen als ein Kompletttausch ohne Prioritäten. Eine transparente Bestandsliste vor Start schafft dafür eine gute Entscheidungsbasis.</p>\n"
+      }
+    ]
+  },
+  "praxis": {
+    "title": "Praxis-Notizen für Ihre Entscheidung",
+    "items": [
+      {
+        "heading": "1) Ziele vor Design festlegen",
+        "text": "Erst Nutzung und Abläufe klären, dann Fronten und Farben auswählen."
+      },
+      {
+        "heading": "2) Technische Punkte früh prüfen",
+        "text": "Elektrik, Wasser und Lüftung beeinflussen Budget und Zeitplan stärker als erwartet."
+      },
+      {
+        "heading": "3) Mit Reserve kalkulieren",
+        "text": "Gerade im Altbau lohnt ein Puffer für unvorhergesehene Bestandsbefunde."
+      }
+    ]
+  },
+  "schema": {
+    "page_url": "https://www.tischlerei.wien/kueche-sanieren/",
+    "areaServed": "Wien, Österreich",
+    "service_name": "Küche sanieren",
+    "serviceType": "Küchensanierung, Modernisierung und Umbau",
+    "product_description": "Planung und Umsetzung von Küchensanierungen in Wien inklusive Teilrenovierung, Komplettsanierung und Koordination der Gewerke.",
+    "business": {
+      "name": "Tischlerei Wien",
+      "url": "https://www.tischlerei.wien/",
+      "telephone": "+43 699 1000 0141",
+      "email": "office@tischlerei.wien"
+    }
+  }
+}
+</script>
+[/ux_html]
+
+[lp_money_page id="kueche-sanieren"]
+[lp_schema id="kueche-sanieren"]
+
+[/section]
